@@ -16,8 +16,8 @@ A command-line interface (CLI) application for managing office room reservations
 1. Clone the repository: 
 
 ```
-git clone <repository-url>
-cd office-rooms
+git clone https://github.com/Mirzonabot/task.git
+cd task
 ```
 
 2. Create a virtual environment (recommended):
